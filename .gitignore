@@ -1,0 +1,6 @@
+vendor/*
+server
+main
+config/*.json
+*/test.go
+img/*/trigger
